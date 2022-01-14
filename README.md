@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+- 🌱 I’m currently learning about geometric learning and medical image analysis
 
 <!--
 **bilha-analytics/bilha-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
