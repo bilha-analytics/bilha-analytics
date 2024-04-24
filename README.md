@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-- 🌱 I’m currently learning about geometric learning and medical image analysis. I'm also interested in sequence-based learning for NLP and genomics
+- 🌱 Data management, EDA, computer vision and graph learning. 
 
 <!--
 **bilha-analytics/bilha-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
