@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-- 🌱 Data management, EDA, computer vision and graph learning. 
+- 🌱 Datasets, EDA, Data science, A/B tests, LLMs, computer vision and graph learning. 
 
 <!--
 **bilha-analytics/bilha-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
