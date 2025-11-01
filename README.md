@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-- 🌱 Datasets, Data/ML/AI products, and everything nice. 
+- 🌱 Datasets, Data/ML/AI solutions, and everything nice. 
 
 <!--
 **bilha-analytics/bilha-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
